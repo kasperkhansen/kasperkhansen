@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Currently studying Datamatiker at KEA in Copenhagen
+## Currently studying Datamatiker at EK in Copenhagen
 
 <!--
 **kasperkhansen/kasperkhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
