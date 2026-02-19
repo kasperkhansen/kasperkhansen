@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Currently studying Datamatiker at EK in Copenhagen
+## I hold an AP Degree in Computer Science from EK (formerly KEA) in Copenhagen.
 
 <!--
 **kasperkhansen/kasperkhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
